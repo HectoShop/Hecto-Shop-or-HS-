@@ -1,2 +1,0 @@
-Speak to Me este un program care ajuta la dezvoltarea pronuntiei in engleza.
-Pentru feedback pe serverul de Discord.
