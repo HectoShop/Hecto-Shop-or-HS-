@@ -1,1 +1,1 @@
-The site in not 100 functional is  have a little bit ofbackend and frontend is not completed and is have bugs for is in beta verison and updates is once week and big updates is once month Thank you! :)
+The site in not 100 functional is  have a little bit of backend and frontend is not completed and is have bugs for is in beta verison and updates is once week and big updates is once month Thank you! :)
