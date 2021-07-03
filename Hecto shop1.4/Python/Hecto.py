@@ -1,12 +1,12 @@
-print("hello")
+print("Hello")
  
  x=2
  if x == 2;
   print("Hecto Shop")
  else;
- print("Salut")
- print(" abc"
+ print("Hello")
+ print(" Hello"
  if x == 2
   "Hecto Shop"
  else;
-"Salut")
+"Hello")
