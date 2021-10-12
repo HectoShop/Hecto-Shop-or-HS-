@@ -1,6 +1,6 @@
  👋 Hi, I’m Aye
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning SQL
+-📖 I’m currently learning SQL
 - 📫 How to reach me : learn intensive.
 
 
